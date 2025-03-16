@@ -1,5 +1,5 @@
 ![Lithium Logo](https://github.com/lithium-labs/lithium-labs/blob/main/logo_.png)
-Lithium Labs is Lithium Labs is a personal company-like thing of mine where I make apps and websites for fun...
+Lithium Labs is a personal company-like thing of mine where I make apps and websites for fun...
 
 ### Techstack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
